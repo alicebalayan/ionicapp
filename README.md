@@ -1,3 +1,3 @@
 # ionicapp
 
-My first app uisng mobile app development framework Ionic
+My first app using mobile app development framework Ionic
